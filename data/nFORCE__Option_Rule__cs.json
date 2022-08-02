@@ -1,0 +1,82 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "nFORCE__Option_Rule__c",
+                "referenceId": "nFORCE__Option_Rule__cRef1"
+            },
+            "nFORCE__Condition__c": "equal to",
+            "nFORCE__lookupKey__c": "42768781525948699",
+            "wmxid__c": "00D8L0000004el5:a1U8L000000SKJG",
+            "wmx_module__c": "wmx_los",
+            "nFORCE__Conditional_Question__c": "@nFORCE__Question__cRef3",
+            "nFORCE__Option__c": "@nFORCE__Option__cRef1",
+            "nFORCE__Question__c": "@nFORCE__Question__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "nFORCE__Option_Rule__c",
+                "referenceId": "nFORCE__Option_Rule__cRef2"
+            },
+            "nFORCE__Condition__c": "equal to",
+            "nFORCE__lookupKey__c": "42227365172646688",
+            "wmxid__c": "00D8L0000004el5:a1U8L000000SKJL",
+            "wmx_module__c": "wmx_los",
+            "nFORCE__Conditional_Question__c": "@nFORCE__Question__cRef4",
+            "nFORCE__Option__c": "@nFORCE__Option__cRef2",
+            "nFORCE__Question__c": "@nFORCE__Question__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "nFORCE__Option_Rule__c",
+                "referenceId": "nFORCE__Option_Rule__cRef3"
+            },
+            "nFORCE__Condition__c": "equal to",
+            "nFORCE__lookupKey__c": "42365883439290450",
+            "wmxid__c": "00D8L0000004el5:a1U8L000000SKJQ",
+            "wmx_module__c": "wmx_los",
+            "nFORCE__Conditional_Question__c": "@nFORCE__Question__cRef2",
+            "nFORCE__Option__c": "@nFORCE__Option__cRef5",
+            "nFORCE__Question__c": "@nFORCE__Question__cRef3"
+        },
+        {
+            "attributes": {
+                "type": "nFORCE__Option_Rule__c",
+                "referenceId": "nFORCE__Option_Rule__cRef4"
+            },
+            "nFORCE__Condition__c": "equal to",
+            "nFORCE__lookupKey__c": "42966464109699218",
+            "wmxid__c": "00D8L0000004el5:a1U8L000000SKJV",
+            "wmx_module__c": "wmx_los",
+            "nFORCE__Conditional_Question__c": "@nFORCE__Question__cRef4",
+            "nFORCE__Option__c": "@nFORCE__Option__cRef6",
+            "nFORCE__Question__c": "@nFORCE__Question__cRef3"
+        },
+        {
+            "attributes": {
+                "type": "nFORCE__Option_Rule__c",
+                "referenceId": "nFORCE__Option_Rule__cRef5"
+            },
+            "nFORCE__Condition__c": "equal to",
+            "nFORCE__lookupKey__c": "42600964678431836",
+            "wmxid__c": "00D8L0000004el5:a1U8L000000SKJa",
+            "wmx_module__c": "wmx_los",
+            "nFORCE__Conditional_Question__c": "@nFORCE__Question__cRef5",
+            "nFORCE__Option__c": "@nFORCE__Option__cRef7",
+            "nFORCE__Question__c": "@nFORCE__Question__cRef4"
+        },
+        {
+            "attributes": {
+                "type": "nFORCE__Option_Rule__c",
+                "referenceId": "nFORCE__Option_Rule__cRef6"
+            },
+            "nFORCE__Condition__c": "equal to",
+            "nFORCE__lookupKey__c": "42312303098103851",
+            "wmxid__c": "00D8L0000004el5:a1U8L000000SKJk",
+            "wmx_module__c": "wmx_los",
+            "nFORCE__Conditional_Question__c": "@nFORCE__Question__cRef6",
+            "nFORCE__Option__c": "@nFORCE__Option__cRef9",
+            "nFORCE__Question__c": "@nFORCE__Question__cRef5"
+        }
+    ]
+}

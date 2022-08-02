@@ -1,0 +1,26 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "nFORCE__Route_Group__c",
+                "referenceId": "nFORCE__Route_Group__cRef1"
+            },
+            "nFORCE__Has_Visibility_Criteria__c": false,
+            "nFORCE__Is_Default_Context_Child__c": false,
+            "nFORCE__Is_Forward_Navigation_Disabled__c": false,
+            "nFORCE__Is_Hidden__c": false,
+            "nFORCE__Order__c": 80,
+            "nFORCE__lookupKey__c": "42185194302447557",
+            "nPortal__Is_Portal_Enabled__c": false,
+            "nPortal__OA_Auto_Decision_Required__c": false,
+            "nPortal__OA_Business_Credit_Pull_Required__c": false,
+            "nPortal__OA_Credit_Pull_Required__c": false,
+            "wmxid__c": "00D8L0000004el5:a1Y8L0000000LXL",
+            "wmx_module__c": "wmx_los",
+            "nFORCE__Group__c": "a1S3x00000K5v3mEAB",
+            "nFORCE__Route__c": "@nFORCE__Route__cRef1",
+            "nFORCE__Parent_Route__c": "a1b3x00000F8KnEAAV",
+            "nFORCE__Question_Group__c": "@nFORCE__Group__cRef1"
+        }
+    ]
+}

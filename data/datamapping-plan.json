@@ -1,0 +1,50 @@
+[
+    {
+        "sobject": "nFORCE__Group__c",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "nFORCE__Group__cs.json"
+        ]
+    },
+    {
+        "sobject": "nFORCE__Route__c",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "nFORCE__Route__cs.json"
+        ]
+    },
+    {
+        "sobject": "nFORCE__Route_Group__c",
+        "saveRefs": false,
+        "resolveRefs": true,
+        "files": [
+            "nFORCE__Route_Group__cs.json"
+        ]
+    },
+    {
+        "sobject": "nFORCE__Question__c",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": [
+            "nFORCE__Question__cs.json"
+        ]
+    },
+    {
+        "sobject": "nFORCE__Option__c",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": [
+            "nFORCE__Option__cs.json"
+        ]
+    },
+    {
+        "sobject": "nFORCE__Option_Rule__c",
+        "saveRefs": false,
+        "resolveRefs": true,
+        "files": [
+            "nFORCE__Option_Rule__cs.json"
+        ]
+    }
+]

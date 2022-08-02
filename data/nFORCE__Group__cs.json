@@ -1,0 +1,18 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "nFORCE__Group__c",
+                "referenceId": "nFORCE__Group__cRef1"
+            },
+            "Name": "Flood Questionnaire",
+            "nFORCE__App__c": "wmx-flood-questionnaire",
+            "nFORCE__Is_Archived__c": false,
+            "nFORCE__Is_Questionnaire__c": true,
+            "nFORCE__lookupKey__c": "42789127661913378",
+            "nPortal__Is_Portal_Enabled__c": false,
+            "wmxid__c": "00D8L0000004el5:a1S8L000000x9cz",
+            "wmx_module__c": "FNBO"
+        }
+    ]
+}

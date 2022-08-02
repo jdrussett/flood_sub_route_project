@@ -1,0 +1,4 @@
+SELECT IsDeleted, Name, nFORCE__App__c, nFORCE__Is_Archived__c, nFORCE__Is_Questionnaire__c,
+nFORCE__lookupKey__c, nPortal__Is_Portal_Enabled__c, wmxid__c, wmx_module__c
+FROM nFORCE__Group__c
+WHERE nFORCE__lookupKey__c = '42789127661913378'

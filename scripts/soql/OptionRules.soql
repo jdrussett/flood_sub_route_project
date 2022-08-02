@@ -1,0 +1,4 @@
+SELECT IsDeleted, nFORCE__Condition__c, nFORCE__Conditional_Question__c, nFORCE__Option__c, nFORCE__Question__c, nFORCE__lookupKey__c, wmxid__c, wmx_module__c
+FROM nFORCE__Option_Rule__c
+WHERE nFORCE__lookupKey__c IN ('42768781525948699', '42227365172646688', '42365883439290450',
+'42966464109699218', '42600964678431836', '42312303098103851')

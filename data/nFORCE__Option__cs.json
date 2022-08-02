@@ -1,0 +1,172 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "nFORCE__Option__c",
+                "referenceId": "nFORCE__Option__cRef1"
+            },
+            "nFORCE__Label__c": "Yes",
+            "nFORCE__Order__c": 1,
+            "nFORCE__lookupKey__c": "42505892747526399",
+            "nFORCE__Api_Value__c": "Yes",
+            "nFORCE__Is_Default__c": false,
+            "wmxid__c": "00D8L0000004el5:a1V8L000000dxRw",
+            "wmx_module__c": "wmx_los",
+            "nFORCE__Question__c": "@nFORCE__Question__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "nFORCE__Option__c",
+                "referenceId": "nFORCE__Option__cRef2"
+            },
+            "nFORCE__Label__c": "No",
+            "nFORCE__Order__c": 2,
+            "nFORCE__lookupKey__c": "42973494888947355",
+            "nFORCE__Api_Value__c": "No",
+            "nFORCE__Is_Default__c": false,
+            "wmxid__c": "00D8L0000004el5:a1V8L000000dxRx",
+            "wmx_module__c": "wmx_los",
+            "nFORCE__Question__c": "@nFORCE__Question__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "nFORCE__Option__c",
+                "referenceId": "nFORCE__Option__cRef3"
+            },
+            "nFORCE__Label__c": "Yes - stop, no further action is needed",
+            "nFORCE__Order__c": 1,
+            "nFORCE__lookupKey__c": "42370434166025795",
+            "nFORCE__Api_Value__c": "Yes",
+            "nFORCE__Is_Default__c": false,
+            "wmxid__c": "00D8L0000004el5:a1V8L000000dxSa",
+            "wmx_module__c": "wmx_los",
+            "nFORCE__Question__c": "@nFORCE__Question__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "nFORCE__Option__c",
+                "referenceId": "nFORCE__Option__cRef4"
+            },
+            "nFORCE__Label__c": "No - Contact the RM for the UPV form, or pull flood",
+            "nFORCE__Order__c": 2,
+            "nFORCE__lookupKey__c": "42598437478266530",
+            "nFORCE__Api_Value__c": "No",
+            "nFORCE__Is_Default__c": false,
+            "wmxid__c": "00D8L0000004el5:a1V8L000000dxSb",
+            "wmx_module__c": "wmx_los",
+            "nFORCE__Question__c": "@nFORCE__Question__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "nFORCE__Option__c",
+                "referenceId": "nFORCE__Option__cRef5"
+            },
+            "nFORCE__Label__c": "Yes",
+            "nFORCE__Order__c": 1,
+            "nFORCE__lookupKey__c": "42555874727531916",
+            "nFORCE__Api_Value__c": "Yes",
+            "nFORCE__Is_Default__c": false,
+            "wmxid__c": "00D8L0000004el5:a1V8L000000dxSf",
+            "wmx_module__c": "wmx_los",
+            "nFORCE__Question__c": "@nFORCE__Question__cRef3"
+        },
+        {
+            "attributes": {
+                "type": "nFORCE__Option__c",
+                "referenceId": "nFORCE__Option__cRef6"
+            },
+            "nFORCE__Label__c": "No",
+            "nFORCE__Order__c": 2,
+            "nFORCE__lookupKey__c": "42081325381419695",
+            "nFORCE__Api_Value__c": "No",
+            "nFORCE__Is_Default__c": false,
+            "wmxid__c": "00D8L0000004el5:a1V8L000000dxSg",
+            "wmx_module__c": "wmx_los",
+            "nFORCE__Question__c": "@nFORCE__Question__cRef3"
+        },
+        {
+            "attributes": {
+                "type": "nFORCE__Option__c",
+                "referenceId": "nFORCE__Option__cRef7"
+            },
+            "nFORCE__Label__c": "Yes",
+            "nFORCE__Order__c": 1,
+            "nFORCE__lookupKey__c": "42297405554014963",
+            "nFORCE__Api_Value__c": "Yes",
+            "nFORCE__Is_Default__c": false,
+            "wmxid__c": "00D8L0000004el5:a1V8L000000dxSk",
+            "wmx_module__c": "wmx_los",
+            "nFORCE__Question__c": "@nFORCE__Question__cRef4"
+        },
+        {
+            "attributes": {
+                "type": "nFORCE__Option__c",
+                "referenceId": "nFORCE__Option__cRef8"
+            },
+            "nFORCE__Label__c": "No - no further action needed",
+            "nFORCE__Order__c": 2,
+            "nFORCE__lookupKey__c": "42070193877038611",
+            "nFORCE__Api_Value__c": "No",
+            "nFORCE__Is_Default__c": false,
+            "wmxid__c": "00D8L0000004el5:a1V8L000000dxSl",
+            "wmx_module__c": "wmx_los",
+            "nFORCE__Question__c": "@nFORCE__Question__cRef4"
+        },
+        {
+            "attributes": {
+                "type": "nFORCE__Option__c",
+                "referenceId": "nFORCE__Option__cRef9"
+            },
+            "nFORCE__Label__c": "Yes",
+            "nFORCE__Order__c": 1,
+            "nFORCE__lookupKey__c": "42023144318395713",
+            "nFORCE__Api_Value__c": "Yes",
+            "nFORCE__Is_Default__c": false,
+            "wmxid__c": "00D8L0000004el5:a1V8L000000dxSu",
+            "wmx_module__c": "wmx_los",
+            "nFORCE__Question__c": "@nFORCE__Question__cRef5"
+        },
+        {
+            "attributes": {
+                "type": "nFORCE__Option__c",
+                "referenceId": "nFORCE__Option__cRef10"
+            },
+            "nFORCE__Label__c": "No - proceed to collateral record",
+            "nFORCE__Order__c": 2,
+            "nFORCE__lookupKey__c": "42281829340530258",
+            "nFORCE__Api_Value__c": "No",
+            "nFORCE__Is_Default__c": false,
+            "wmxid__c": "00D8L0000004el5:a1V8L000000dxSv",
+            "wmx_module__c": "wmx_los",
+            "nFORCE__Question__c": "@nFORCE__Question__cRef5"
+        },
+        {
+            "attributes": {
+                "type": "nFORCE__Option__c",
+                "referenceId": "nFORCE__Option__cRef11"
+            },
+            "nFORCE__Label__c": "Yes - stop, no further action is needed",
+            "nFORCE__Order__c": 1,
+            "nFORCE__lookupKey__c": "42567332008535190",
+            "nFORCE__Api_Value__c": "Yes",
+            "nFORCE__Is_Default__c": false,
+            "wmxid__c": "00D8L0000004el5:a1V8L000000dxSz",
+            "wmx_module__c": "wmx_los",
+            "nFORCE__Question__c": "@nFORCE__Question__cRef6"
+        },
+        {
+            "attributes": {
+                "type": "nFORCE__Option__c",
+                "referenceId": "nFORCE__Option__cRef12"
+            },
+            "nFORCE__Label__c": "No - Contact the RM for the UPV form, or pull flood",
+            "nFORCE__Order__c": 2,
+            "nFORCE__lookupKey__c": "42829516148384133",
+            "nFORCE__Api_Value__c": "No",
+            "nFORCE__Is_Default__c": false,
+            "wmxid__c": "00D8L0000004el5:a1V8L000000dxT0",
+            "wmx_module__c": "wmx_los",
+            "nFORCE__Question__c": "@nFORCE__Question__cRef6"
+        }
+    ]
+}

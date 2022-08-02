@@ -1,0 +1,7 @@
+SELECT IsDeleted, nFORCE__Group__c, nFORCE__Has_Visibility_Criteria__c, nFORCE__Is_Default_Context_Child__c,
+nFORCE__Is_Forward_Navigation_Disabled__c, nFORCE__Is_Hidden__c, nFORCE__Order__c, nFORCE__Parent_Route__c, 
+nFORCE__Question_Group__c, nFORCE__Route__c, nFORCE__lookupKey__c, nPortal__Is_Portal_Enabled__c, 
+nPortal__OA_Auto_Decision_Required__c, nPortal__OA_Business_Credit_Pull_Required__c, nPortal__OA_Credit_Pull_Required__c, 
+wmxid__c, wmx_module__c
+FROM nFORCE__Route_Group__c
+WHERE nFORCE__lookupKey__c = '42185194302447557'

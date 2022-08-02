@@ -1,0 +1,10 @@
+[
+    {
+        "sobject": "nFORCE__Option__c",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "nFORCE__Option__cs.json"
+        ]
+    }
+]

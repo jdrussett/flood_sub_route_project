@@ -1,0 +1,10 @@
+[
+    {
+        "sobject": "nFORCE__Question__c",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "nFORCE__Question__cs.json"
+        ]
+    }
+]
