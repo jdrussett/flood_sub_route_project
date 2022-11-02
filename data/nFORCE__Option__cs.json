@@ -33,7 +33,7 @@
                 "type": "nFORCE__Option__c",
                 "referenceId": "nFORCE__Option__cRef3"
             },
-            "nFORCE__Label__c": "Yes - stop, no further action is needed",
+            "nFORCE__Label__c": "Yes - Stop, no further action is needed",
             "nFORCE__Order__c": 1,
             "nFORCE__lookupKey__c": "42370434166025795",
             "nFORCE__Api_Value__c": "Yes",
@@ -103,7 +103,7 @@
                 "type": "nFORCE__Option__c",
                 "referenceId": "nFORCE__Option__cRef8"
             },
-            "nFORCE__Label__c": "No - no further action needed",
+            "nFORCE__Label__c": "No - No further action needed",
             "nFORCE__Order__c": 2,
             "nFORCE__lookupKey__c": "42070193877038611",
             "nFORCE__Api_Value__c": "No",
@@ -131,7 +131,7 @@
                 "type": "nFORCE__Option__c",
                 "referenceId": "nFORCE__Option__cRef10"
             },
-            "nFORCE__Label__c": "No - proceed to collateral record",
+            "nFORCE__Label__c": "No - Proceed to collateral record",
             "nFORCE__Order__c": 2,
             "nFORCE__lookupKey__c": "42281829340530258",
             "nFORCE__Api_Value__c": "No",
@@ -145,7 +145,7 @@
                 "type": "nFORCE__Option__c",
                 "referenceId": "nFORCE__Option__cRef11"
             },
-            "nFORCE__Label__c": "Yes - stop, no further action is needed",
+            "nFORCE__Label__c": "Yes - Stop, no further action is needed",
             "nFORCE__Order__c": 1,
             "nFORCE__lookupKey__c": "42567332008535190",
             "nFORCE__Api_Value__c": "Yes",
