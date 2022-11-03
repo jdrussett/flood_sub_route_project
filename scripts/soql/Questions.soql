@@ -1,5 +1,5 @@
-SELECT IsDeleted, nFORCE__Form_Type__c, nFORCE__Group__c, nFORCE__Is_Archived__c, nFORCE__Is_Required__c,
-nFORCE__Label__c, nFORCE__Order__c, nFORCE__lookupKey__c, nFORCE__Api_Key__c, wmxid__c, wmx_module__c
+SELECT nFORCE__Form_Type__c, nFORCE__Is_Archived__c, nFORCE__Is_Required__c, nFORCE__Label__c,
+nFORCE__Order__c, nFORCE__Api_Key__c, nFORCE__lookupKey__c, wmxid__c, wmx_module__c,  nFORCE__Group__c
 FROM nFORCE__Question__c
-WHERE nFORCE__lookupKey__c IN ('42487824568822474', '42277907381237399', '42617438096377146', 
-'42646109185248894', '42197282820240507', '42303823396186951')
+WHERE nFORCE__lookupKey__c IN ('42745022826550145', '42022661863545868', '42411146476285085', 
+'42697806392561650', '42254583600260961', '42651801043294021')

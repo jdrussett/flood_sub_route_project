@@ -1,0 +1,10 @@
+[
+    {
+        "sobject": "nFORCE__Group__c",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "nFORCE__Group__cs.json"
+        ]
+    }
+]

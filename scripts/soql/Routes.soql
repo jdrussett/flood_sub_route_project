@@ -1,4 +1,4 @@
-SELECT Id, Name, nFORCE__App__c, nFORCE__Body__c, nFORCE__Is_Hidden__c, nFORCE__Navigation__c, nFORCE__Sub_Navigation__c,
+SELECT Name, nFORCE__App__c, nFORCE__Body__c, nFORCE__Is_Hidden__c, nFORCE__Navigation__c, nFORCE__Sub_Navigation__c,
 nFORCE__Topbar__c, nFORCE__lookupKey__c, wmxid__c, wmx_module__c
 FROM nFORCE__Route__c
-WHERE nFORCE__lookupKey__c = '42904023066755600'
+WHERE nFORCE__lookupKey__c in ('42454772834032204', '42127855010336869')

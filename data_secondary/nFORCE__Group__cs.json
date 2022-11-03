@@ -9,7 +9,9 @@
             "nFORCE__App__c": "wmx-flood-questionnaire",
             "nFORCE__Is_Archived__c": false,
             "nFORCE__Is_Questionnaire__c": true,
+            "nFORCE__lookupKey__c": "42907078807983530",
             "nPortal__Is_Portal_Enabled__c": false,
+            "wmxid__c": "00D7X0000001GuP:a1S7X000003o3p1",
             "wmx_module__c": "FNBO"
         }
     ]

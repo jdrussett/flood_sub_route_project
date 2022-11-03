@@ -1,0 +1,10 @@
+[
+    {
+        "sobject": "nFORCE__Route_Group__c",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "nFORCE__Route_Group__cs.json"
+        ]
+    }
+]
