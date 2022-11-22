@@ -23,7 +23,7 @@
 
 1. In VS Code, with the terminal location at the root folder of the project you downloaded locally in the pre-deployment steps section, run the following command:
 
-        sfdx force:data:tree:import --targetusername production --plan data/datamapping-plan.json
+        sfdx force:data:tree:import --targetusername production --plan data_secondary/datamapping-plan.json
 
 2. If the command executes successfully, you should see about two dozen import result records populate in the terminal window.
 3. In Salesforce, check the loan compliance route on the loan UI for a booked and open loan, and verify that the flood questionnaire sub-route was added to the end of the route. Confirm that the questions render appropriately depending on the answers you select and no errors result in the UI.
